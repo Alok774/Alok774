@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alok774
+- 👋 Hi, I’m @ Aloka Pradhan
 - 👀 I’m interested in ...AI & ML
 - 🌱 I’m currently learning ...DATA SCIENCE & AI
 - 💞️ I’m looking to collaborate on ...
