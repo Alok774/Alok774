@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Aloka Pradhan
 - 👀 I’m currently looking job in ...Software Engineering,Python Project,AI & ML .
-- 🌱 I’m currently comleted some project on ...DATA SCIENCE & AI,Python.
+- 🌱 I’m currently completed some project on ...DATA SCIENCE & AI,Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...774989415 / 6370064545
 email-pythondeveloperalok2024@gmail.com 
